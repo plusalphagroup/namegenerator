@@ -1,7 +1,7 @@
 package namegenerator
 
 import (
-	"github.com/plusalphagroup/name-generator/names"
+	"github.com/plusalphagroup/namegenerator/names"
 	"math/rand"
 	"time"
 )

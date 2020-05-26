@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	namegenerator "github.com/plusalphagroup/name-generator"
+	namegenerator "github.com/plusalphagroup/namegenerator"
 )
 
 func main() {
